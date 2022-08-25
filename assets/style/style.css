@@ -1,0 +1,57 @@
+/* Estilos da página index.html */
+.justify{
+    text-align: justify;
+}
+.center{
+    text-align: center;
+}
+
+#menu li {
+    display: inline;
+    padding: 15px;
+    
+}
+
+#menu li a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+#menu li a:hover {
+    color: blue;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+
+    align-items: center;
+}
+
+.p-30{
+    padding: 30px;
+}
+.border-radius-50{
+    border-radius: 100px;
+}
+.wh-300{
+    width: 500px;
+}
+.tm-social{
+    width: 50px;
+}
+.mb-50{
+    margin-bottom: 50px;
+}
+img{
+    width: 700px;
+}
+
+
+
+/* Estilos da página icontato.html */
+.ml-50{
+    margin-left: 50px;
+}
